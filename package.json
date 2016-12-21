@@ -9,6 +9,7 @@
   "author": "kazimirkas",
   "license": "ISC",
   "dependencies": {
+    "split": "^1.0.0",
     "through2": "^2.0.3"
   }
 }
