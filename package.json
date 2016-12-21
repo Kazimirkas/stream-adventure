@@ -1,0 +1,14 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "my exercises",
+  "main": "stpipe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kazimirkas",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
